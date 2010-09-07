@@ -1,7 +1,10 @@
 {
   "name": "Smood it",
   "sections": [
-    {"section":"about_me"},
-    {"section":"intro"}
+    {"section":"intro"},
+    {"section":"what_is_smoodit"},
+    {"section":"future"},
+    {"section":"social_involvement"},
+    {"section":"outro"}
   ]
 }
