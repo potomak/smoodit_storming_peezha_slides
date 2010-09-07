@@ -17,8 +17,8 @@ TODO: bigger logo!
 
 !SLIDE center
 
-![Facebook like](facebook_like.gif)
+![Twitter status](twitter_status.gif)
 
 !SLIDE center
 
-![Smood it](smoodit_screenshot.jpg)
+![Smood it](smoodit_screenshot.png)
