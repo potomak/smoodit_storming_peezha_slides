@@ -1,6 +1,6 @@
 !SLIDE
 
-# More to come...
+# Future
 
 !SLIDE center
 
@@ -17,6 +17,8 @@
 
 !SLIDE center
 
+## (find it)
+
 ![widget screenshot](widget_screenshot.png)
 
 !SLIDE center
@@ -24,3 +26,9 @@
 # Connections
 
 ![social networks](social_networks.png)
+
+!SLIDE center
+
+# Insights
+
+![insights](insights.png)

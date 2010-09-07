@@ -1,7 +1,12 @@
-!SLIDE
+!SLIDE bullets incremental
 
-# Social involvment
+# Social involvement
+
 ## Why I should return to Smood it?
+
+* because it's fun
+* because it's addictive
+* because it's useful
 
 !SLIDE center
 

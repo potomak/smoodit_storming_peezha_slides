@@ -1,6 +1,7 @@
 !SLIDE
 
 # What is Smood it?
+### It's a microblogging application to share your mood with your friends.
 
 !SLIDE center
 
@@ -10,11 +11,9 @@
 
 # What is a smood?
 
-!SLIDE
+!SLIDE center
 
 ## Something between a
-
-!SLIDE center
 
 ![Facebook like](facebook_like.gif)
 
@@ -22,14 +21,14 @@
 
 ## and a
 
+![Twitter status](twitter_status.gif)
+
 !SLIDE center
 
-![Twitter status](twitter_status.gif)
+## A smood looks like this
+
+![a smood](smood.png)
 
 !SLIDE
 
-## a smood looks like this
-
-!SLIDE center
-
-![a smood](smood.png)
+## demo
