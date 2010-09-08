@@ -23,6 +23,12 @@
 
 !SLIDE center
 
+# Extension
+
+![safari extension](safari_extension.png)
+
+!SLIDE center
+
 # Connections
 
 ![social networks](social_networks.png)
