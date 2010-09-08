@@ -2,8 +2,8 @@
 
 # thanks!
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental smaller
 
 # Resources
 
-* [http://potomak.github.com/smoodit_storming_peezha_slides/](http://potomak.github.com/smoodit_storming_peezha_slides/)
+* [potomak.github.com/smoodit_storming_peezha_slides](http://potomak.github.com/smoodit_storming_peezha_slides/)
